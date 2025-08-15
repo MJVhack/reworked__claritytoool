@@ -7,4 +7,4 @@ Il avait annonçé sa suite récemment mais en changeant complêtement le foncti
 
 Nouveaux outils, possibilité d'ajouter des plug-ins en les mettants dans le dossier tools.
 Pour plus d'informations sur le fonctionnement du tools, veuillez consulter la page:
-[NON INTEGRER]
+https://mjvhack.github.io/documentation/multidocs/clarity.html
