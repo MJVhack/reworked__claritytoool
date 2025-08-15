@@ -1,2 +1,4 @@
 # reworked__claritytoool
-A tool created by axeltoutcourt72
+--------------------------------------------
+
+Ce module a étais développé par [axel](https://github.com/alextoutcourt72)
